@@ -2,5 +2,4 @@
 This is my first Git Repository
 <br>
 Author- Jay Patel
-<br>
-Author - Devanshu 
+
